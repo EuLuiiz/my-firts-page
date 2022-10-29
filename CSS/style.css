@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+}
+
+body {
+    background-color: darkgray;
+}
+h1{text-align: center;}
+
+.descript {
+    text-align: center;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+nav {
+    position: static;
+    top:10px;
+    right: 0;
+}
+nav li {
+    display: inline-block;
+    margin: 0 0 0 15px;    
+}
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 22px;
+    text-decoration: none;
+}
+ol li{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+h2{
+    text-align: center;
+}
